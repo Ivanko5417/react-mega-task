@@ -4,7 +4,8 @@
   "description": "This repository will be used for React",
   "main": "index.js",
   "scripts": {
-    "test": "jest --reporters=default --reporters=jest-junit"
+    "test": "jest --reporters=default --reporters=jest-junit",
+    "build": "echo build script is called"
   },
   "repository": {
     "type": "git",
