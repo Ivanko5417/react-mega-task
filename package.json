@@ -1,0 +1,24 @@
+{
+  "name": "react-mega-task",
+  "version": "1.0.0",
+  "description": "This repository will be used for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --reporters=default --reporters=jest-junit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanko5417/react-mega-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanko5417/react-mega-task/issues"
+  },
+  "homepage": "https://github.com/Ivanko5417/react-mega-task#readme",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-junit": "^13.0.0",
+    "puppeteer": "^13.3.1"
+  }
+}
