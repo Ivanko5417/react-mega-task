@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="5.159">
-  <testsuite name="App.js" errors="0" failures="0" skipped="0" timestamp="2022-02-13T17:30:43" time="5.105" tests="1">
-    <testcase classname="App.js contains the welcome text" name="App.js contains the welcome text" time="2.284">
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="1.487">
+  <testsuite name="A suite" errors="0" failures="0" skipped="0" timestamp="2022-02-13T18:23:54" time="0.739" tests="4">
+    <testcase classname="A suite should render without throwing an error" name="A suite should render without throwing an error" time="0.009">
+    </testcase>
+    <testcase classname="A suite should be selectable by class &quot;foo&quot;" name="A suite should be selectable by class &quot;foo&quot;" time="0.004">
+    </testcase>
+    <testcase classname="A suite should mount in a full DOM" name="A suite should mount in a full DOM" time="0.045">
+    </testcase>
+    <testcase classname="A suite should render to static HTML" name="A suite should render to static HTML" time="0.013">
     </testcase>
   </testsuite>
 </testsuites>
